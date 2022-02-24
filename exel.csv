@@ -1,0 +1,31 @@
+nbr,nom,anne,type,age
+1,Counter-Strike:Global Offensive,2012.0,FPS,18.0
+2,Counter-Strike:Source,2004.0,FPS,18.0
+3,Counter-Strike,2000.0,FPS,18.0
+4,Grand theft Auto V,2013.0,Open_world,18.0
+5,Minecraft,2011.0,Open_world,13.0
+6,Call of Duty Black ops 2,2012.0,FPS,18.0
+7,Mario Kart 7,2011.0,Arcade,7.0
+8,Mario Bros Wii ,2009.0,Arcade,7.0
+9,Tetris,1984.0,Arcade,3.0
+10,Fortnite,2017.0,BR,16.0
+11,Zelda Wind waker,2002.0,RPG,13.0
+12,H1Z1,2015.0,BR,18.0
+13,Rocket league,2015.0,Arcade,3.0
+14,League of légendes ,2009.0,RPG,13.0
+15,Adibou,1992.0,Educatif,3.0
+16,Super smash bros ,2018.0,Arcade,7.0
+17,Skyrim,2011.0,RPG,18.0
+18,Warzone,2020.0,BR,18.0
+19,Terraria,2011.0,Open_world,13.0
+20,Cities skylines,2015.0,Simulateur,3.0
+21,Pong,1972.0,Arcade,3.0
+22,Sonic,1991.0,Arcade,7.0
+23,Sea of thieves,2018.0,Open_world,16.0
+24,Far cry 3 ,2012.0,Open_world,18.0
+25,The escapiste ,2014.0,Arcad,18.0
+26,R6,2015.0,FPS,18.0
+27,Valorant ,2020.0,FPS,16.0
+28,Valheim ,2021.0,FPS,16.0
+29,Assassin creed Unity,2014.0,Open_world,18.0
+30,Among us ,2018.0,Arcade,10.0
